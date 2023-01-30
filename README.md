@@ -26,7 +26,7 @@ The genetic algorithm is implemented from scratch using the following steps:
 
 ## Usage
 
-To run the code, simply open the `feature_selection_ga.ipynb` Jupyter Notebook and run the cells in order.
+To run the code, simply open the `Genetic_Algorithm.ipynb` Jupyter Notebook and run the cells in order.
 
 ## Results
 
